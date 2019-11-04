@@ -1,3 +1,3 @@
-# calculator_project
+# Calculator 
 
 Calculator based on rpn algorithm
