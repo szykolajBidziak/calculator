@@ -7,15 +7,11 @@ public enum Operation {
 
     ADD("+") {
         @Override
-        double apply(double a, double b) {
-            return a + b;
-        }
+        double apply(double a, double b) { return a + b; }
     },
     SUBTRACT("-") {
         @Override
-        double apply(double a, double b) {
-            return a - b;
-        }
+        double apply(double a, double b) { return a - b; }
     },
     MULTIPLY("*") {
         @Override
