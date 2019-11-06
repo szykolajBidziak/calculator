@@ -2,4 +2,5 @@
 
 Calculator based on rpn algorithm
 
-szymon nic tu nie zrobił
+~~szymon nic tu nie zrobił~~
+
